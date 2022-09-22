@@ -1,0 +1,1 @@
+apply_transform(model.mesh, model.texture);
